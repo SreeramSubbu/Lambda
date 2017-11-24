@@ -1,0 +1,37 @@
+Lamda
+Functional Programming benefits
+
+    Nicely composed, not cluttered
+
+    Free of low-level operations
+
+    Easier to enhance or change the logic
+
+    Iteration controlled by a library of methods
+
+    Efficient; lazy evaluation of loops
+
+    Easier to parallelize where desired
+
+- Parallel Streams
+- Enforcing policies
+- Extending policies
+- Concurrency
+- code that reads requirement
+- seperation of concerns
+- delaying evaluation
+- improving testability
+
+
+Declarative style of coding.
+
+
+    Be declarative.
+
+    Promote immutability.
+
+    Avoid side effects.
+
+    Prefer expressions over statements.
+
+    Design with higher-order functions.
